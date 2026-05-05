@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small Pythn package for CNN Classifier
+Home-page: https://github.com/mohdharislcp/ChickenDisease_Haris
+Author: mohdharislcp
+Author-email: mohdharislcp@gmail.com
+Project-URL: Bug Tracker, https://github.com/mohdharislcp/ChickenDisease_Haris/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+My project for chicken disease detection

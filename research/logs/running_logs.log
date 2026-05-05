@@ -1,0 +1,32 @@
+[2026-05-05 15:27:19,686: INFO: common] [Errno 2] No such file or directory: 'config\\config.yaml'
+[2026-05-05 15:28:29,732: INFO: common] [Errno 2] No such file or directory: 'config\\config.yaml'
+[2026-05-05 15:40:40,844: INFO: common] yaml file: config\config.yaml loaded successfully
+[2026-05-05 15:40:40,853: INFO: common] yaml file: params.yaml loaded successfully
+[2026-05-05 15:40:40,858: INFO: common] directory created at: artifacts
+[2026-05-05 15:40:40,861: INFO: common] directory created at: artifacts/data_ingestion
+[2026-05-05 15:40:58,749: INFO: 708910430] File downloaded at: artifacts/data_ingestion/data.zip with following headers: Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 68F8:F12C6:3FB006:4ADC25:69F99E24
+Accept-Ranges: bytes
+Date: Tue, 05 May 2026 07:40:41 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sjc1000107-SJC
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1777966842.502367,VS0,VE2
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: ad0fb93a9c257208931d1d8fd4ca9675dda42df4
+Expires: Tue, 05 May 2026 07:45:41 GMT
+Source-Age: 213
+
+

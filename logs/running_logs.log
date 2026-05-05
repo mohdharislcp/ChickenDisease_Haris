@@ -1,0 +1,36 @@
+[2026-05-05 10:41:13,622: INFO: main] This is a log message from main.py
+[2026-05-05 14:43:59,577: INFO: main] This is a log message from main.py
+[2026-05-05 16:22:43,548: INFO: main] >>> Stage Data Ingestion Stage started <<<
+[2026-05-05 16:22:43,552: INFO: common] yaml file: config\config.yaml loaded successfully
+[2026-05-05 16:22:43,558: INFO: common] yaml file: params.yaml loaded successfully
+[2026-05-05 16:22:43,561: INFO: common] directory created at: artifacts
+[2026-05-05 16:22:43,569: INFO: common] directory created at: artifacts/data_ingestion
+[2026-05-05 16:25:14,092: INFO: data_ingestion] File downloaded at: artifacts/data_ingestion/data.zip with following headers: Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 89D0:4B537:45D0D2:52300A:69F9A8D3
+Accept-Ranges: bytes
+Date: Tue, 05 May 2026 08:22:44 GMT
+Via: 1.1 varnish
+X-Served-By: cache-sjc1000104-SJC
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1777969364.324378,VS0,VE412
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 944438de42c39d6d07fefc0251211f7e2502e953
+Expires: Tue, 05 May 2026 08:27:44 GMT
+Source-Age: 0
+
+
+[2026-05-05 16:25:15,391: INFO: main] >>> Stage Data Ingestion Stage completed <<<
+
+ X===========X
